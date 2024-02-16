@@ -1,0 +1,21 @@
+chnages in master
+Ecommerce:base changes in origin
+total 14 members - 3 groups - 3 tasks 
+1.payments
+2.address
+3.account management
+3 features
+
+Disadvantages
+many conflicts if on same branch—
+no independency if on one branch whole. 3groups
+Master-bug less code/stable code
+we dont commit direclty to master because it is production environment and deployed from here
+
+
+so we need 3 different areas (branches)
+1.so we create a branch payment.  # git branch payments
+2.and then checking out to that branch #git checkout payments
+
+git checkout -b payments
+
