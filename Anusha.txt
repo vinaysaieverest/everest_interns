@@ -1,0 +1,11 @@
+Git
+to clone :
+    git clone url
+Branches:
+    depends on the features branches are created. so master will remain same and safe
+    master is directly used in the production
+to create branche:
+    git checkout -b payments
+to switch branch:
+     git checkout branchname
+     
