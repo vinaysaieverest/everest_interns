@@ -8,4 +8,8 @@ to create branche:
     git checkout -b payments
 to switch branch:
      git checkout branchname
-     
+
+to change username:
+     git config --global user.name "username"
+to change user email:
+    git config  --global user.email "useremail@gmail.com"
